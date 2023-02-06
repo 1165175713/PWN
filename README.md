@@ -6,3 +6,4 @@
 * 漏洞挖掘
 * 符号执行、插桩
 * shellcode编写
+* 工具、环境搭建 gdb ropgadget python-pwntools 
